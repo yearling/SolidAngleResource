@@ -1,0 +1,7 @@
+*.exp
+*.iobj
+*.ipdb
+*.bsc
+*.dll
+!d3dcompiler_46.dll
+!libfbxsdk.dll

@@ -1,0 +1,4 @@
+media filter=lfs diff=lfs merge=lfs -text
+Content/ filter=lfs diff=lfs merge=lfs -text
+libfbxsdk.dll filter=lfs diff=lfs merge=lfs -text
+d3dcompiler_46.dll filter=lfs diff=lfs merge=lfs -text
