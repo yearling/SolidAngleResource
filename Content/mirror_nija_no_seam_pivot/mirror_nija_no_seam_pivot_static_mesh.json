@@ -1,0 +1,21 @@
+{
+    "Materials":[
+        {
+            "MaterialIndex":0,
+            "SlotUIName":"Mat",
+            "MaterialPackage":"Content/mirror_nija_no_seam_pivot/mirror_nija_no_seam_pivot_material.json"
+        }
+    ],
+    "LODs":[
+        {
+            "LOD":0,
+            "SectionInfo":[
+                {
+                    "SectionIndex":0,
+                    "MaterialIndex":0
+                }
+            ]
+        }
+    ],
+    "AssetPackage":"Content/mirror_nija_no_seam_pivot/mirror_nija_no_seam_pivot.yasset"
+}

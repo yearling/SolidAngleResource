@@ -1,0 +1,70 @@
+{
+  "Actors": [
+    {
+      "Components": {
+        "SceneComponent": {
+          "Scale": [ 1.0, 1.0, 1.0 ],
+          "Rotation": [ 0.0, 0.0, 0.0 ],
+          "Translation": [ 0.0, 0.0, 0.0 ],
+          "Children": [
+            {
+              "StaticMeshComponent": {
+                "SceneComponent": {
+                  "Scale": [ 1.0, 1.0, 1.0 ],
+                  "Rotation": [ 0.0, 0.0, 0.0 ],
+                  "Translation": [ -20.0, 0.0, 0.0 ]
+                },
+                "Model": "Content/mirror_nija_no_seam_pivot/mirror_nija_no_seam_pivot_static_mesh.json",
+                "Visible": true,
+                "MaterialInstances": [
+                  "Content/mirror_nija_no_seam_pivot/mirror_nija_no_seam_pivot_material.json"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Components": {
+        "SceneComponent": {
+          "Scale": [ 1.0, 1.0, 1.0 ],
+          "Rotation": [ 0.0, 0.0, 0.0 ],
+          "Translation": [ 0.0, 0.0, 0.0 ],
+          "Children": [
+            {
+              "StaticMeshComponent": {
+                "SceneComponent": {
+                  "Scale": [ 1.0, 1.0, 1.0 ],
+                  "Rotation": [ 0.0, 0.0, 0.0 ],
+                  "Translation": [ 20.0, 0.0, 0.0 ]
+                },
+                "Model": "Content/mirror_nija_no_seam_pivot/mirror_nija_no_seam_pivot_static_mesh.json",
+                "Visible": true,
+                "MaterialInstances": [
+                  "Content/mirror_nija_no_seam_pivot/mirror_nija_no_seam_pivot_material.json"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Components": {
+        "StaticMeshComponent": {
+          "SceneComponent": {
+            "Scale": [ 1.0, 1.0, 1.0 ],
+            "Rotation": [ 0.0, 0.0, 0.0 ],
+            "Translation": [ 0.0, 0.0, 0.0 ]
+          },
+          "Model": "Content/mirror_nija_no_seam_pivot/mirror_nija_no_seam_pivot_static_mesh.json",
+          "Visible": true,
+          "MaterialInstances": [
+            "Content/mirror_nija_no_seam_pivot/mirror_nija_no_seam_pivot_material.json"
+          ]
+        } 
+      }
+    }
+  ]
+}

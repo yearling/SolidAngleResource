@@ -1,0 +1,19 @@
+{
+    "RenderState": {},
+    "Parameters": [
+        {
+            "Name": "DiffuseTexture",
+            "Type": "Textrue2D",
+            "Srgb": true,
+            "Usage": "Color",
+            "Value": "Content/mirror_nija_no_seam_pivot/uv.png"
+        },
+        {
+            "Name": "NormalTexture",
+            "Type": "Textrue2D",
+            "Srgb": false,
+            "Usage": "Normal",
+            "Value": "Content/mirror_nija_no_seam_pivot/Normal.png"
+        }
+    ]
+}
